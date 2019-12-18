@@ -22,6 +22,27 @@
         }
       ]
     },
+        {
+      "Text": "Więcej niż jedno zwierzę to:",
+      "Answers": [
+        {
+          "Text": "Żbik",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Emu",
+          "IsCorrect": false
+        },
+        {
+          "Text": "Lama",
+          "IsCorrect": true
+        },
+        {
+          "Text": "Kozak",
+          "IsCorrect": false
+        }
+      ]
+    },
     {
       "Text": "Kto był pierwszym królem Polski?",
       "Answers": [
